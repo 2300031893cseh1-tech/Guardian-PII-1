@@ -1,0 +1,10 @@
+Guardian PII demonstration record
+Name: Divya Chand
+Email: divya.demo@example.com
+Mobile: 9876543210
+PAN: ABCDE1234F
+Aadhaar: 234567890122
+Card: 4111111111111111
+
+Hindi / Telugu / Tamil sample phrases can also be tested in the app.
+Use only synthetic values in this demonstration.
